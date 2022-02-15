@@ -276,6 +276,6 @@ function getFormatDate(date) {
 
 // 로그인
 function loginCheck() {
-    const userId = $('#userId').val() //아이디
+    const userId = $('#userId').val() //아이디 chu
     const userPassword = $('#userPassword').val() //패스워드
 }
