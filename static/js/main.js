@@ -274,8 +274,8 @@ function getFormatDate(date) {
     return year + '-' + month + '-' + day;
 }
 
-// 로그인
+// 로그인_parunson-최신상태
 function loginCheck() {
-    const userId = $('#userId').val() //아이디
+    const userId = $('#userId').val() //아이디 chu
     const userPassword = $('#userPassword').val() //패스워드
 }
