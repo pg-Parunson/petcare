@@ -1,0 +1,56 @@
+.topBanner {
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+
+.topBanner h1 {
+    font-weight: bold;
+}
+
+.petInfo {
+    padding: 15px;
+    margin: 10px auto 50px auto;
+}
+
+.showMedicalInfo {
+    padding: 15px;
+    margin: 10px auto 50px auto;
+}
+
+.medicalInfo {
+    margin: 10px auto 50px auto;
+    padding: 15px;
+}
+
+.medicalInfoTable tr th {
+    border: 1px solid;
+    font-size: 16px;
+}
+
+.medicalInfoTable td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.medicalInfoTable th {
+    padding: 10px 5px;
+}
+
+.addMedicalInfo {
+    width: 49%;
+}
+
+.login-form {
+	width: 600px;
+	margin: 10px auto 50px auto;
+}
+
+.btn-primary {
+    background-color: darkorange;
+    border-color: darkorange;
+}
+
+.btn-primary:hover{
+    background-color: chocolate;
+    border-color: chocolate;
+}
