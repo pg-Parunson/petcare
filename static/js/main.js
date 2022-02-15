@@ -274,6 +274,7 @@ function getFormatDate(date) {
     return year + '-' + month + '-' + day;
 }
 
+
 // 로그인
 function loginCheck() {
     const userId = $('#userId').val() //아이디 chu
