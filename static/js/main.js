@@ -276,6 +276,6 @@ function getFormatDate(date) {
 
 // 로그인_parunson-최신상태_수
 function loginCheck() {
-    const userId = $('#userId').val() //아이디 chu_123
+    const userId = $('#userId').val() //아이디 chu_1234
     const userPassword = $('#userPassword').val() //패스워드
 }
